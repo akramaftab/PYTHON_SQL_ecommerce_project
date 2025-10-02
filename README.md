@@ -81,6 +81,6 @@ This project transforms ecommerce data into a narrative that highlights growth d
 
 ## Screen Shot / Demos
 
-📊 *(Add GitHub link / screenshots here if available)*
+📊 *([click to view the project](https://github.com/akramaftab/PYTHON_SQL_ecommerce_project/blob/main/python%2Bsql_ecommerce.ipynb))*
 
 ***
