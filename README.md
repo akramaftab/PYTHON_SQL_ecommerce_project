@@ -1,4 +1,4 @@
----
+***
 
 # Ecommerce Analytics Project (Python & SQL)
 
@@ -83,6 +83,4 @@ This project transforms ecommerce data into a narrative that highlights growth d
 
 📊 *(Add GitHub link / screenshots here if available)*
 
----
-
-Do you want me to also **add a polished GitHub README version** (with markdown tables, emojis, and clickable links like your churn project) so it’s ready for upload?
+***
